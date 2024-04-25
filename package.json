@@ -1,0 +1,15 @@
+{
+  "name": "xpathhunter",
+  "version": "1.0.0",
+  "description": "Absolute Xpath Finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vishnu Moaan Kannan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chrome": "^0.0.266"
+  }
+}
